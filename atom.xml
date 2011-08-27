@@ -4,7 +4,7 @@
   <title>Mandrágora 2.0</title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2011-08-26T01:26:26+02:00</updated>
+  <updated>2011-08-27T22:08:39+02:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name>Mandrágora Developers</name>
@@ -17,7 +17,9 @@
     <link href="http://yoursite.com/blog/2011/08/25/when-the-sun-hides-in-the-horizon/"/>
     <updated>2011-08-25T14:59:00+02:00</updated>
     <id>http://yoursite.com/blog/2011/08/25/when-the-sun-hides-in-the-horizon</id>
-    <content type="html">&lt;p&gt;asjcbajkvk&lt;abjk&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </content>
   </entry>
   
